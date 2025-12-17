@@ -1,0 +1,6 @@
+{
+    "appId": "com.neonpipes.game",
+    "appName": "Neon Pipes",
+    "webDir": "www",
+    "bundledWebRuntime": false
+}
