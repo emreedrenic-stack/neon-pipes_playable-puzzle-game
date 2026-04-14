@@ -2,7 +2,7 @@ Neon Pipes 🟦🟩🟥
 
 Neon Pipes is a short HTML5 puzzle game where players connect pipes to complete a circuit. The game focuses on logical thinking, efficiency, and replayability through a move-based medal system.
 
-🎮 Playable Demo: https://emreedrenic-stack.github.io/neon-pipes/
+🎮 Playable Demo: [https://emreedrenic-stack.github.io/neon-pipes/](https://emreedrenic-stack.github.io/neon-pipes_playable-puzzle-game/)
 💻 Source Code: https://github.com/emreedrenic-stack/neon-pipes
 
 🧠 Game Features
