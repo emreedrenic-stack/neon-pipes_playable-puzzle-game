@@ -1,42 +1,66 @@
-Neon Pipes 🟦🟩🟥
+# 🎮 Neon Pipes
 
-Neon Pipes is a short HTML5 puzzle game where players connect pipes to complete a circuit. The game focuses on logical thinking, efficiency, and replayability through a move-based medal system.
+**Neon Pipes** is a browser-based HTML5 puzzle game where players connect pipes to complete circuits using the minimum number of moves.
 
-🎮 Playable Demo: [https://emreedrenic-stack.github.io/neon-pipes/](https://emreedrenic-stack.github.io/neon-pipes_playable-puzzle-game/)
-💻 Source Code: https://github.com/emreedrenic-stack/neon-pipes
+The project focuses on logical problem-solving, level design, and creating engaging player feedback systems through efficiency-based rewards.
 
-🧠 Game Features
+---
 
-7 hand-crafted puzzle levels with increasing difficulty
+## 🔗 Links
 
-Medal system (Gold / Silver / Bronze) based on number of moves
+* 🎮 **Playable Demo:** https://emreedrenic-stack.github.io/neon-pipes/
+* 💻 **Source Code:** https://github.com/emreedrenic-stack/neon-pipes
 
-Encourages players to optimize solutions, not just finish levels
+---
 
-Touch controls for mobile & mouse support for desktop
+## 🧠 Key Features
 
-Clean and minimal neon-style UI
+* 7 hand-crafted levels with increasing difficulty
+* Move-based medal system (Gold / Silver / Bronze)
+* Designed to reward optimization, not just completion
+* Touch controls (mobile) and mouse support (desktop)
+* Clean, minimal neon-style UI
 
-🏅 Medal System
+---
 
-Each level rewards the player based on efficiency:
+## 🏗 Skills Demonstrated
 
-🥇 Gold – Optimal solution
+* **Game Design** – Designing puzzle mechanics and player progression
+* **Level Design & Balancing** – Creating increasing difficulty and optimizing challenge curves
+* **Systems Thinking** – Implementing reward systems based on player performance
+* **Frontend Development** – HTML, CSS, JavaScript for interactive gameplay
+* **User Experience (UX)** – Intuitive controls and visual feedback
+* **Problem Solving** – Structuring logic for puzzle mechanics
 
-🥈 Silver – Good solution
+---
 
-🥉 Bronze – Level completed
+## 🏅 Medal System
 
-This system increases replayability and allows difficulty balancing per level.
+Each level rewards players based on efficiency:
 
-🎯 Project Purpose
+* 🥇 **Gold** – Optimal solution
+* 🥈 **Silver** – Near-optimal solution
+* 🥉 **Bronze** – Level completed
 
-This project was created as a portfolio piece to demonstrate:
+This system encourages replayability and introduces a performance-based challenge beyond simple completion.
 
-Puzzle game design
+---
 
-Level balancing
+## 🎯 Project Purpose
 
-Player reward systems
+This project was developed as a portfolio piece to demonstrate:
 
-Completing and publishing a full playable game
+* Ability to design and implement a complete game system
+* Understanding of player engagement and reward mechanics
+* Translating game design concepts into working code
+* Delivering a fully playable and deployed product
+
+---
+
+## 🚀 Outcome
+
+* Built and deployed a fully functional browser game
+* Created a structured progression system across multiple levels
+* Designed a reward system to enhance engagement and replayability
+
+---
