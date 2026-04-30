@@ -9,7 +9,8 @@ The project focuses on logical problem-solving, level design, and creating engag
 ## 🔗 Links
 
 * 🎮 **Playable Demo:** https://emreedrenic-stack.github.io/neon-pipes_playable-puzzle-game/
-* 💻 **Source Code:** https://github.com/emreedrenic-stack/neon-pipes
+* 💻 **Source Code:** https://github.com/emreedrenic-stack/neon-pipes_playable-puzzle-game
+
 
 ---
 
